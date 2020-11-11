@@ -47,12 +47,45 @@
     border-radius: 10px;
     box-shadow: 5px 10px 15px gray;
     text-align: center;
-    padding-top: 50px;
-    
+    padding-top: 50px;   
 }
 .box h2{
     color: #413960;
-    margin-top: 10px;
+    margin-top: 25px;
+    font-size: 25px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 10px 20px gray;
+    border-radius: 10px;
+}
+.buy-now{
+    background-color: #21B573;
+    color: white!important;
+    text-align: center;
+    border-radius: 15px;
+    border: none;
+    padding: 5px 20px;
+}
+.online-course{
+    padding: 50px 0px;
+}
+.online-course h2{
+    font-family: poppins;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 40px;
+    color: #413960;
+    font-size: 36px;
+}
+.footer-image{
+    width: 20%;
+    height: auto;
+}
+.line-match{
+   margin-left: 5px;
+   vertical-align: baseline;
+   
 }
 
 
