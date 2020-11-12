@@ -80,12 +80,76 @@
 }
 .footer-image{
     width: 20%;
-    height: auto;
+    height: 30px;
 }
 .line-match{
    margin-left: 5px;
-   vertical-align: baseline;
-   
+   vertical-align: baseline; 
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    border-radius: 10px!important;
+}
+.card-footer p{
+    font-family: poppins;
+    font-size: 16px;
+    color: #585859;
+    font-weight:600;
+    margin-top: 3px;
+    margin-left: 9px;
+}
+.Testimonial-section{
+    margin: 30px 0px;
+}
+.testimonial {
+    padding: 40px 50px;
+}
+.testimonial img{
+height: 120px;
+width: 120px;
+left: 353px;
+top: 1787px;
+border-radius: 0px;
+}
+.testimonial p{
+    font-family: poppins;
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.testimonial-heading{
+    text-align: center;
+    margin-left: 70px;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 40px;
+}
+.bg-gray{
+    background-color:#282531;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.bg-gray ul li{
+    list-style-type: none;
+    color: white;
+    font-size: 20px;
+
+}
+.bg-gray ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: normal;
+    opacity: 0.8;
+}
+.footer-describe {
+    color: white;
+    font-size: 20px;
+}
+footer p{
+    text-align: center;
+    color: rgba(255, 255, 255, 0.616);
 }
 
 
